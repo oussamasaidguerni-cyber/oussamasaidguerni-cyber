@@ -26,24 +26,6 @@
 
 ---
 
-## status
-
-```
-usamasg@status:~$ uptime --pretty
-  uptime .... still booting
-  shell ..... zsh (motivated mode)
-  coffee .... critical — refill required
-  sleep ..... not found
-  sudo ...... make me a hacker
-
-usamasg@skills:~$ ./progress --all
-  python .... [████████░░] 80%
-  linux ..... [██████░░░░] 60%
-  hacking ... [███░░░░░░░] 30% (loading...)
-```
-
----
-
 <p align="center">
   <em>built with nothing but pure grit and will</em>
 </p>
