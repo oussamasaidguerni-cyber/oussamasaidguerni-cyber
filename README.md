@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Breaking & building things the safe way — one local VM at a time.</em>
+  <em>Breaking & building things the safe way, thank you for checking :3 .</em>
 </p>
 
 ---
