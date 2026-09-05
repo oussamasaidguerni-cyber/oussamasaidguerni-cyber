@@ -42,6 +42,6 @@
  </g>
 
   <rect x="400" y="280" width="9" height="16" fill="#e8a5ad" opacity="0">
-    <animate attributeName="opacity" values="0;1;0;1" dur="1s" repeatCount="indefinite" begin="3.9s"/>
+    <animate attributeName="opacity" values="0;1;0;1" dur="1s" repeatCount="indefinite" begin="4s"/>
   </rect>
 </svg>
