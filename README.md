@@ -29,7 +29,7 @@
 ## my city
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
+  <img src="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/master/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city" />
 </p>
 
 ---
