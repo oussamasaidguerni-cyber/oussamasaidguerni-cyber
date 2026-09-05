@@ -1,64 +1,267 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Usamasg fastfetch">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Usamasg fastfetch dream-kanji">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f0718"/>
-      <stop offset="0.5" stop-color="#241048"/>
-      <stop offset="1" stop-color="#0d1117"/>
+      <stop offset="0" stop-color="#0f0718"/><stop offset="0.5" stop-color="#241048"/><stop offset="1" stop-color="#0d1117"/>
     </linearGradient>
     <linearGradient id="u" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#c4a5fc">
-        <animate attributeName="stop-color" values="#c4a5fc;#8a2be2;#c4a5fc" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="1" stop-color="#4c1d95"/>
-    </linearGradient>
-    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8a2be2" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#8a2be2" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#8a2be2" stop-opacity="0"/>
+      <stop offset="0" stop-color="#c4a5fc"/><stop offset="1" stop-color="#5b2a9d"/>
     </linearGradient>
   </defs>
-
-  <rect width="900" height="240" fill="url(#bg)"/>
-
-  <rect x="0" y="0" width="900" height="2" fill="url(#scan)">
-    <animate attributeName="y" values="-3;243" dur="4.5s" repeatCount="indefinite" begin="0s"/>
-  </rect>
-
-  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="22" font-weight="bold" fill="url(#u)">
-    <text x="70"  y="66">██    ██</text>
-    <text x="70"  y="92">██    ██</text>
-    <text x="70"  y="118">██    ██</text>
-    <text x="70"  y="144">██    ██</text>
-    <text x="70"  y="170">██ ██ ██</text>
-    <text x="70"  y="196"> ██████</text>
-  </g>
-
-  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
-    <text x="340" y="50" fill="#ded4f5">Usamasg
-      <tspan fill="#8a2be2" font-weight="bold">  //  system info</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze"/>
-    </text>
-    <text x="340" y="78"><tspan fill="#8a2be2">host</tspan><tspan fill="#4c1d95">        ::  </tspan><tspan fill="#c9b8f0">Usamasg</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.6s" fill="freeze"/>
-    </text>
-    <text x="340" y="106"><tspan fill="#8a2be2">user</tspan><tspan fill="#4c1d95">        ::  </tspan><tspan fill="#c9b8f0">oussamasaidguerni-cyber</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze"/>
-    </text>
-    <text x="340" y="134"><tspan fill="#8a2be2">os</tspan><tspan fill="#4c1d95">          ::  </tspan><tspan fill="#c9b8f0">kali + python (learning)</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
-    </text>
-    <text x="340" y="162"><tspan fill="#8a2be2">learning</tspan><tspan fill="#4c1d95">     ::  </tspan><tspan fill="#c9b8f0">OWASP Ten · SQLi · XSS · SOC</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze"/>
-    </text>
-    <text x="340" y="190"><tspan fill="#8a2be2">projects</tspan><tspan fill="#4c1d95">     ::  </tspan><tspan fill="#c9b8f0">usahack · logwatch</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.8s" fill="freeze"/>
-    </text>
-    <text x="340" y="218"><tspan fill="#8a2be2">motto</tspan><tspan fill="#4c1d95">        ::  </tspan><tspan fill="#c9b8f0">break it · learn it · build safe</tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze"/>
-    </text>
-  </g>
-
-  <rect x="624" y="209" width="8" height="14" fill="#c4a5fc">
-    <animate attributeName="opacity" values="0;1;0;1" dur="0.9s" repeatCount="indefinite" begin="3.5s"/>
+  <rect width="900" height="320" fill="url(#bg)"/>
+  <text x="60" y="44.0" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">        #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="58.4" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">    #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="72.8" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">    #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="87.2" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">    #############
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="101.6" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">    #   #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="116.0" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">    #         #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="130.4" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">   ##############
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="144.8" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">   #   #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="159.2" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">   #   #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="173.6" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">   #   #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="188.0" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">   ##############
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="202.4" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">      #   #   #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="216.8" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">    #    #    #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="231.2" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">   #    # #    #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="245.6" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">  #    #   #    #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="260.0" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)"> #    #     #    #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="274.4" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">#    #       #    #
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="60" y="288.8" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="bold" fill="url(#u)">####           ####
+    <animate attributeName="opacity" values="0;1;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.52" dur="0.9s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="400" y="58" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+      <tspan fill="#8a2be2">h<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.600s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.645s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.690s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.735s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.780s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.825s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.870s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.915s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">U<animate attributeName="opacity" values="0;1" dur="0.02s" begin="0.960s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.005s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.050s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">m<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.095s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.140s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.185s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">g<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.230s" fill="freeze"/></tspan>
+  </text>
+  <text x="400" y="88" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+      <tspan fill="#8a2be2">u<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.150s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.195s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.240s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.285s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.330s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.375s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.420s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.465s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.510s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">u<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.555s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.600s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.645s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.690s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">m<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.735s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.780s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.825s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.870s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.915s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">d<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.960s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">g<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.005s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">u<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.050s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.095s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.140s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.185s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.230s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">-<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.275s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">c<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.320s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">y<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.365s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">b<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.410s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.455s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.500s" fill="freeze"/></tspan>
+  </text>
+  <text x="400" y="118" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+      <tspan fill="#8a2be2">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.700s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.745s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.790s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.835s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.880s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.925s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">k<animate attributeName="opacity" values="0;1" dur="0.02s" begin="1.970s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.015s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">l<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.060s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.105s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.150s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">+<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.195s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.240s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">p<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.285s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">y<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.330s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.375s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">h<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.420s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.465s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.510s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.555s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">(<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.600s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">l<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.645s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.690s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.735s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.780s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.825s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.870s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.915s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">g<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.960s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">)<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.005s" fill="freeze"/></tspan>
+  </text>
+  <text x="400" y="148" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+      <tspan fill="#8a2be2">l<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.250s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.295s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.340s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.385s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.430s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.475s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.520s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">g<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.565s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.610s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.655s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.700s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.745s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">O<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.790s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">W<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.835s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">A<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.880s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">S<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.925s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">P<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.970s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.015s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">T<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.060s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.105s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.150s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.195s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">·<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.240s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.285s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">S<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.330s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">Q<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.375s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">L<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.420s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.465s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.510s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">·<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.555s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.600s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">X<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.645s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">S<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.690s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">S<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.735s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.780s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">·<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.825s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.870s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">S<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.915s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">O<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.960s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">C<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.005s" fill="freeze"/></tspan>
+  </text>
+  <text x="400" y="178" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+      <tspan fill="#8a2be2">p<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.800s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.845s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.890s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">j<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.935s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="2.980s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">c<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.025s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.070s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.115s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.160s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.205s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.250s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.295s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">u<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.340s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.385s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.430s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">h<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.475s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.520s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">c<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.565s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">k<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.610s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.655s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">·<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.700s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.745s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">l<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.790s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.835s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">g<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.880s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">w<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.925s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.970s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.015s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">c<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.060s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">h<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.105s" fill="freeze"/></tspan>
+  </text>
+  <text x="400" y="208" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+      <tspan fill="#8a2be2">m<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.350s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.395s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.440s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.485s" fill="freeze"/></tspan>
+      <tspan fill="#8a2be2">o<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.530s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.575s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.620s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95">:<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.665s" fill="freeze"/></tspan>
+      <tspan fill="#4c1d95"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.710s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">b<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.755s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.800s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.845s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.890s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">k<animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.935s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="3.980s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.025s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.070s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.115s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">·<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.160s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.205s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">l<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.250s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.295s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.340s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">r<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.385s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">n<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.430s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.475s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.520s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">t<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.565s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.610s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">·<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.655s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.700s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">b<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.745s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">u<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.790s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">i<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.835s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">l<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.880s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">d<animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.925s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0"> <animate attributeName="opacity" values="0;1" dur="0.02s" begin="4.970s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">s<animate attributeName="opacity" values="0;1" dur="0.02s" begin="5.015s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">a<animate attributeName="opacity" values="0;1" dur="0.02s" begin="5.060s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">f<animate attributeName="opacity" values="0;1" dur="0.02s" begin="5.105s" fill="freeze"/></tspan>
+      <tspan fill="#c9b8f0">e<animate attributeName="opacity" values="0;1" dur="0.02s" begin="5.150s" fill="freeze"/></tspan>
+  </text>
+  <rect x="748.4" y="196" width="8" height="15" fill="#c4a5fc">
+    <animate attributeName="opacity" values="0;1;0;1" dur="0.9s" repeatCount="indefinite" begin="5.60s"/>
   </rect>
 </svg>
