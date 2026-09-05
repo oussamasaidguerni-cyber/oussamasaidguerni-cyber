@@ -4,7 +4,7 @@
 
 ---
 
-## 🛡️ Projects
+## Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧰 Toolbox
+## my skills so far
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <em>built with ☕, too many terminal windows, and lockdown curiosity</em>
+  <em>built with nothing but pure grit and will</em>
 </p>
