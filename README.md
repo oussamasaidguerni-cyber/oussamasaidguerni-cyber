@@ -1,16 +1,14 @@
-# 👋 Hey, I'm Usamasg
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Usamasg banner" />
+</p>
 
-🧑‍💻 **Aspiring Cybersecurity Enthusiast** — new to tech, willing to learn, and constantly leveling up.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=800&color=A084DC&center=true&vCenter=true&width=540&lines=Hi+there%2C+I'm+Usamasg;Aspiring+Cybersecurity+Enthusiast;Learning+OWASP+Top+10;Motivated+%E2%9A%9B%EF%B8%8F+willing+to+learn" alt="Typing SVG" />
+</p>
 
-> "⚛️ motivated"
-
----
-
-## 🚀 About Me
-- 🔐 Learning cybersecurity from the ground up (SQLi, XSS, OWASP Top 10, SOC analysis)
-- 🛠️ Building hands-on projects to practice real attacks in safe, local environments
-- 🌍 Based in Algeria
-- 📫 Reach me: [GitHub](https://github.com/oussamasaidguerni-cyber)
+<p align="center">
+  <em>Breaking & building things the safe way — one local VM at a time.</em>
+</p>
 
 ---
 
@@ -23,29 +21,63 @@
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Toolbox
 
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/nmap-4C8BF5?style=for-the-badge&logo=dependabot&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/SQLi-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-6B21A8?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-5B21B6?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 The Numbers
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamasaidguerni-cyber&show_icons=true&theme=radical&hide_border=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamasaidguerni-cyber&layout=compact&theme=radical&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamasaidguerni-cyber&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamasaidguerni-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=oussamasaidguerni-cyber&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 💡 Currently Learning
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+*Eats my contributions every night. Purple fuel. 🟣*
+
+---
+
+## 💡 Learning Roadmap
+
 - [x] OWASP Top 10 basics
 - [x] SQL Injection & XSS
 - [ ] Network / SOC analysis
-- [ ] CTF challenges & bug bounty hunting
+- [ ] CTF challenges
+- [ ] Bug bounty hunting
 
 ---
 
-![](https://visitor-badge.laobi.icu/badge?page_id=oussamasaidguerni-cyber)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=oussamasaidguerni-cyber" alt="Visitors" />
+  <br/>
+  <strong>⚛️ motivated</strong>
+</p>
