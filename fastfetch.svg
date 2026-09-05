@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Usamasg fastfetch, dream kanji">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Usamasg fastfetch, dream kanji">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0f0718"/>
@@ -11,33 +11,37 @@
     </linearGradient>
   </defs>
 
-  <rect width="900" height="300" fill="url(#bg)"/>
+  <rect width="900" height="400" fill="url(#bg)"/>
 
   <text x="170" y="225" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans CJK JP','Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif" font-size="190" font-weight="700" fill="url(#dream)">&#x5922;</text>
-  <text x="170" y="268" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="4" fill="#8a2be2">yume &#8212; dream</text>
+  <text x="170" y="268" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="4" fill="#8a2be2">yume &#8212; vision</text>
 
-  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15">
+  <g font-family="'gothic','JetBrains Mono',Consolas,monospace" font-size="15">
     <text x="400" y="70" opacity="0"><tspan fill="#8a2be2" font-weight="bold">host    </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">Usamasg</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze"/>
     </text>
     <text x="400" y="100" opacity="0"><tspan fill="#8a2be2" font-weight="bold">user    </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">oussamasaidguerni-cyber</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.8s" fill="freeze"/>
     </text>
-    <text x="400" y="130" opacity="0"><tspan fill="#8a2be2" font-weight="bold">os      </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">kali + python (learning)</tspan>
+    <text x="400" y="130" opacity="0"><tspan fill="#8a2be2" font-weight="bold">os      </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">debian + kali</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.3s" fill="freeze"/>
     </text>
-    <text x="400" y="160" opacity="0"><tspan fill="#8a2be2" font-weight="bold">learning</tspan><tspan fill="#4c1d95"> ::  </tspan><tspan fill="#ded4f5">OWASP Ten, SQLi, XSS, SOC</tspan>
+    <text x="400" y="160" opacity="0"><tspan fill="#8a2be2" font-weight="bold">learning</tspan><tspan fill="#4c1d95"> ::  </tspan><tspan fill="#ded4f5">ethical hacking, SQLi, XSS, SOC, CTM</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.8s" fill="freeze"/>
     </text>
-    <text x="400" y="190" opacity="0"><tspan fill="#8a2be2" font-weight="bold">projects</tspan><tspan fill="#4c1d95"> ::  </tspan><tspan fill="#ded4f5">usahack, logwatch</tspan>
+    <text x="400" y="190" opacity="0"><tspan fill="#8a2be2" font-weight="bold">projects</tspan><tspan fill="#4c1d95"> ::  </tspan><tspan fill="#ded4f5">usahack, logwatch, and more to come</tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.3s" fill="freeze"/>
     </text>
-    <text x="400" y="220" opacity="0"><tspan fill="#8a2be2" font-weight="bold">motto   </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">break it, learn it, build safe</tspan>
+    <text x="400" y="220" opacity="0"><tspan fill="#8a2be2" font-weight="bold">motto   </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">break it, revese engineer it, learn it </tspan>
       <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.8s" fill="freeze"/>
     </text>
-  </g>
+    <text x="400" y="270" opacity="0"><tspan fill="#8a2be2" font-weight="bold">me      </tspan><tspan fill="#4c1d95">::  </tspan><tspan fill="#ded4f5">oussamaSG,DZ,19, i can make shit happen :) </tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="3.5s" fill="freeze"/>
+    </text>
+    
+ </g>
 
-  <rect x="400" y="228" width="9" height="16" fill="#c4a5fc" opacity="0">
-    <animate attributeName="opacity" values="0;1;0;1" dur="1s" repeatCount="indefinite" begin="3.6s"/>
+  <rect x="400" y="280" width="9" height="16" fill="#c4a5fc" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;1" dur="1s" repeatCount="indefinite" begin="3.9s"/>
   </rect>
 </svg>
