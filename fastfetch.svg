@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Usamasg fastfetch">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0718"/>
+      <stop offset="0.5" stop-color="#241048"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="u" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c4a5fc">
+        <animate attributeName="stop-color" values="#c4a5fc;#8a2be2;#c4a5fc" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a2be2" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8a2be2" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8a2be2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="240" fill="url(#bg)"/>
+
+  <rect x="0" y="0" width="900" height="2" fill="url(#scan)">
+    <animate attributeName="y" values="-3;243" dur="4.5s" repeatCount="indefinite" begin="0s"/>
+  </rect>
+
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="22" font-weight="bold" fill="url(#u)">
+    <text x="70"  y="66">██    ██</text>
+    <text x="70"  y="92">██    ██</text>
+    <text x="70"  y="118">██    ██</text>
+    <text x="70"  y="144">██    ██</text>
+    <text x="70"  y="170">██ ██ ██</text>
+    <text x="70"  y="196"> ██████</text>
+  </g>
+
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14">
+    <text x="340" y="50" fill="#ded4f5">Usamasg
+      <tspan fill="#8a2be2" font-weight="bold">  //  system info</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze"/>
+    </text>
+    <text x="340" y="78"><tspan fill="#8a2be2">host</tspan><tspan fill="#4c1d95">        ::  </tspan><tspan fill="#c9b8f0">Usamasg</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.6s" fill="freeze"/>
+    </text>
+    <text x="340" y="106"><tspan fill="#8a2be2">user</tspan><tspan fill="#4c1d95">        ::  </tspan><tspan fill="#c9b8f0">oussamasaidguerni-cyber</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze"/>
+    </text>
+    <text x="340" y="134"><tspan fill="#8a2be2">os</tspan><tspan fill="#4c1d95">          ::  </tspan><tspan fill="#c9b8f0">kali + python (learning)</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
+    </text>
+    <text x="340" y="162"><tspan fill="#8a2be2">learning</tspan><tspan fill="#4c1d95">     ::  </tspan><tspan fill="#c9b8f0">OWASP Ten · SQLi · XSS · SOC</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.5s" fill="freeze"/>
+    </text>
+    <text x="340" y="190"><tspan fill="#8a2be2">projects</tspan><tspan fill="#4c1d95">     ::  </tspan><tspan fill="#c9b8f0">usahack · logwatch</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.8s" fill="freeze"/>
+    </text>
+    <text x="340" y="218"><tspan fill="#8a2be2">motto</tspan><tspan fill="#4c1d95">        ::  </tspan><tspan fill="#c9b8f0">break it · learn it · build safe</tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.1s" fill="freeze"/>
+    </text>
+  </g>
+
+  <rect x="624" y="209" width="8" height="14" fill="#c4a5fc">
+    <animate attributeName="opacity" values="0;1;0;1" dur="0.9s" repeatCount="indefinite" begin="3.5s"/>
+  </rect>
+</svg>
