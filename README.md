@@ -26,6 +26,14 @@
 
 ---
 
+## my city
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
+</p>
+
+---
+
 <p align="center">
   <em>built with nothing but pure grit and will</em>
 </p>
