@@ -53,8 +53,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-
+<!-- 🐍 Contribution Snake — enabled once workflow scope is granted
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/output/github-contribution-grid-snake-dark.svg" />
@@ -63,6 +62,7 @@
 </div>
 
 *Eats my contributions every night. Purple fuel. 🟣*
+-->
 
 ---
 
