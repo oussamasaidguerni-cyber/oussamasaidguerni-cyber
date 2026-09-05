@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Usamasg banner" />
+  <img src="https://raw.githubusercontent.com/oussamasaidguerni-cyber/oussamasaidguerni-cyber/master/banner.svg" width="100%" alt="Usamasg banner" />
 </p>
 
 <p align="center">
